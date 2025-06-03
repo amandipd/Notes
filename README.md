@@ -1,1 +1,1 @@
-A repository containing web-scraping notes and examples.
+A repository contaning notes from various programming languages.
